@@ -1,7 +1,7 @@
 # Voltage Divider App
 <br/>
 A simple powershell GUI App for computing the values for a Voltage Divider circuit.
-<br/>
+<br/><br/>
 Sample Screenshots.
 <br/>
 
